@@ -13,6 +13,7 @@ public class Todo {
     private Long id;
     private String task;
     private boolean completed;
+    private String priority;
 
     public Todo(){
 
